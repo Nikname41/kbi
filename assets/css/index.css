@@ -1,11 +1,12 @@
 .plan{
-    background-color: blue;
-    color: white;
+    background-color: rgb(241, 236, 226);
+    color: rgb(0, 0, 0);
     padding: 3% 4%;
 }
 .point{
-    background-color: aquamarine;
+    background-color: rgb(254, 253, 250);
     border-radius: 20px;
+    color: black;
 }
 .col-2{
     padding: 0px;
@@ -29,5 +30,19 @@
     position: absolute;
   bottom: 0.5rem;
   right: 0.5rem;
-  background-color: blue;
+  background-color: rgb(254, 228, 93);
+}
+
+
+.carus{
+    width: 750px;
+    height: 750px;
+    margin: auto;
+}
+.namer{
+    font-size: x-small;
+}
+.foto{
+    height: 100px;
+    width: 100px;
 }
