@@ -1,10 +1,10 @@
 .plan{
-    background-color: rgb(241, 236, 226);
+    background-color: rgb(202, 213, 223);
     color: rgb(0, 0, 0);
     padding: 3% 4%;
 }
 .point{
-    background-color: rgb(254, 253, 250);
+    background-color: rgb(235, 225, 246);
     border-radius: 20px;
     color: black;
 }
@@ -38,11 +38,4 @@
     width: 750px;
     height: 750px;
     margin: auto;
-}
-.namer{
-    font-size: x-small;
-}
-.foto{
-    height: 100px;
-    width: 100px;
 }
